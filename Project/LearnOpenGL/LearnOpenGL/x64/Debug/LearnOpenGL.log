@@ -1,0 +1,4 @@
+﻿  Main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Main.obj : error LNK2019: unresolved external symbol gladLoadGLLoader referenced in function main
+C:\Users\SAGAR\Documents\Development\LearnOpenGL\Project\LearnOpenGL\x64\Debug\LearnOpenGL.exe : fatal error LNK1120: 1 unresolved externals
